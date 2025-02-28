@@ -4,27 +4,36 @@ import FotoPerfil from "../../assets/FotoPerfil.jpeg";
 const SobreMim = () => {
   return (
     <MainEstilizado id="sobre-mim">
-      <img src="https://firebasestorage.googleapis.com/v0/b/devpedro-b54e3.appspot.com/o/FotoPerfil.jpeg?alt=media&token=256886ed-8ddf-4536-9df1-55d8e3772413" alt="" />
+      <img
+        src="https://firebasestorage.googleapis.com/v0/b/devpedro-b54e3.appspot.com/o/foto-linkedin.jpeg?alt=media&token=e0a289b0-9c37-4e7e-bb21-3978162c4076"
+        alt=""
+      />
       <div>
         <h2>
-          Desenvolvedor <br />Full stack
+          Desenvolvedor <br />
+          Full stack
         </h2>
         <p>
-          Sou um Desenvolvedor Full stack apaixonado por transformar conceitos em
-          realidade, unindo habilidades técnicas e criatividade. Estou
+          Sou um Desenvolvedor Full stack apaixonado por transformar conceitos
+          em realidade, unindo habilidades técnicas e criatividade. Estou
           constantemente em busca de novas oportunidades para aprimorar minhas
           habilidades e enfrentar desafios em projetos inovadores. Meu objetivo
           é a constante aprendizagem e crescimento profissional na área. Possuo
           expertise nas seguintes tecnologias: <strong>JavaScript</strong>,{" "}
-          <strong>React.js</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong>, {""}
-          <strong>MySQL</strong>, <strong>PostgreSQL</strong>, <strong>Git</strong>, {""} 
-          <strong>Github</strong>, <strong>TailwindCSS</strong>. Além disso, tenho experiência em outras
-          tecnologias como: <strong>Firebase</strong>.
+          <strong>React.js</strong>, <strong>TypeScript</strong>,{" "}
+          <strong>Node.js</strong>, {""}
+          <strong>MySQL</strong>, <strong>PostgreSQL</strong>,{" "}
+          <strong>Git</strong>, <strong>Docker</strong>, {""}
+          <strong>Github</strong>, <strong>TailwindCSS</strong>. Além disso,
+          tenho experiência em outras tecnologias como:{" "}
+          <strong>Firebase</strong>.
         </p>
       </div>
       <section>
         <a href="https://github.com/pedrohbf1">Github</a>
-        <a href="https://www.linkedin.com/in/pedro-henrique-2a861827b/">Linkedin</a>
+        <a href="https://www.linkedin.com/in/pedro-henrique-2a861827b/">
+          Linkedin
+        </a>
       </section>
       <FooterEstilizado />
     </MainEstilizado>
@@ -62,7 +71,7 @@ const slideInFromtop2 = keyframes`
     transform: translateY(0);
     opacity: 1;
   }
-`
+`;
 
 const slideInFromBottom = keyframes`
   from {
@@ -181,7 +190,6 @@ const MainEstilizado = styled.main`
       width: 90%;
     }
   }
-
 `;
 
 const FooterEstilizado = styled.footer`
