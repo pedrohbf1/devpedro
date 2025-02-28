@@ -23,7 +23,8 @@ const SobreMim = () => {
           <strong>React.js</strong>, <strong>TypeScript</strong>,{" "}
           <strong>Node.js</strong>, {""}
           <strong>MySQL</strong>, <strong>PostgreSQL</strong>,{" "}
-          <strong>Git</strong>, <strong>Docker</strong>, {""}
+          <strong>Prisma</strong>, <strong>Git</strong>, <strong>Docker</strong>
+          , {""}
           <strong>Github</strong>, <strong>TailwindCSS</strong>. Além disso,
           tenho experiência em outras tecnologias como:{" "}
           <strong>Firebase</strong>.
