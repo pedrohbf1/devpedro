@@ -51,7 +51,10 @@ export default function Header() {
       <div className="w-[80%] max-md:w-[90%] mx-auto">
         <div className="flex h-16 items-center justify-between">
           <div className="font-bold text-xl">
-            <a href="/" className="flex items-center">
+            <a
+              href="https://pedrohbf1.github.io/devpedro/"
+              className="flex items-center"
+            >
               <span>Pedro</span>
               <span className="text-gray-500">.dev</span>
             </a>
