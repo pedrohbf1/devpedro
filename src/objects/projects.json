@@ -1,0 +1,113 @@
+[
+  {
+    "titulo": "Neobix - Gestão Inteligente para Clínicas Odontológicas",
+    "cargo": "Fundador e Cocriador",
+    "url": "https://www.neobix.com.br/",
+    "repositorio": "https://github.com/pedrohbf1/pedroShop-frontend",
+    "imagemCapa": "/public/neobix.png",
+    "linguagens": [
+      "JavaScript",
+      "Styled-component",
+      "React.js",
+      "React-icons",
+      "axios",
+      "Firebase",
+      "React-router-dom",
+      "React-loader-spinner",
+      "Tanstack Query",
+      "Node.js",
+      "Express",
+      "MySQL"
+    ]
+  },
+  {
+    "titulo": "Dactai RFM",
+    "cargo": "Desenvolvedor Full Stack",
+    "url": "https://www.dactai.com.br/",
+    "imagemCapa": "/public/dactai.png",
+    "linguagens": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Zod",
+      "React Hook Form",
+      "Tanstack Query",
+      "Tailwind CSS",
+      "Sequelize"
+    ]
+  },
+  {
+    "titulo": "Diversão Offline",
+    "cargo": "Desenvolvedor Full Stack",
+    "url": "https://diversaooffline.com.br/",
+    "imagemCapa": "/public/doff.png",
+    "linguagens": [
+      "TypeScript",
+      "React",
+      "React Native",
+      "Expo",
+      "Tailwind",
+      "Zod",
+      "Tanstack Query",
+      "Node.js",
+      "Express",
+      "Prisma ORM",
+      "Push Notifications",
+      "Node Schedule",
+      "PostgreSQL",
+      "Docker",
+      "AWS S3"
+    ]
+  },
+  {
+    "titulo": "Floricultura Boulevard",
+    "cargo": "Desenvolvedor Full Stack",
+    "url": "https://floricultura-boulevard.vercel.app/",
+    "repositorio": "https://github.com/pedrohbf1/floriculturaBoulevard",
+    "imagemCapa": "https://firebasestorage.googleapis.com/v0/b/devpedro-b54e3.appspot.com/o/Captura%20de%20Tela%202024-02-14%20a%CC%80s%2015.18.36.png?alt=media&token=485ad8ac-91ce-4926-85f3-add4d6dc65f3",
+    "linguagens": [
+      "JavaScript",
+      "React.js",
+      "Firebase Database",
+      "React router dom",
+      "Firebase storage",
+      "Styled component",
+      "HTML5",
+      "CSS3",
+      "Context Api"
+    ]
+  },
+  {
+    "titulo": "Track-it",
+    "cargo": "Desenvolvedor Front-end",
+    "url": "https://track-it-seven.vercel.app/",
+    "repositorio": "https://github.com/pedrohbf1/Track-it",
+    "imagemCapa": "https://firebasestorage.googleapis.com/v0/b/devpedro-b54e3.appspot.com/o/TrackidCapa.png?alt=media&token=c92e9495-6b43-474b-9431-86ccf4a9302f",
+    "linguagens": [
+      "JavaScript",
+      "React.js",
+      "Axios",
+      "React router dom",
+      "Context Api",
+      "Styled component",
+      "DayJS",
+      "React circular progressbar",
+      "HTML5",
+      "CSS3"
+    ]
+  },
+  {
+    "titulo": "Dra Priscilla Santos",
+    "cargo": "Desenvolvedor Front-end",
+    "url": "https://dra-priscila.vercel.app/",
+    "repositorio": "https://github.com/pedrohbf1/draPriscila",
+    "imagemCapa": "https://firebasestorage.googleapis.com/v0/b/devpedro-b54e3.appspot.com/o/draPriscillaFOTO.png?alt=media&token=13128e35-4164-4a30-9e7c-16c71d9e1ccd",
+    "linguagens": [
+      "React.js",
+      "React-icons",
+      "Styled component",
+      "HTML5",
+      "CSS3"
+    ]
+  }
+]
