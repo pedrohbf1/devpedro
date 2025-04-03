@@ -35,7 +35,7 @@ export default function CardProject({ project }: Props) {
             {project.repositorio && (
               <a
                 href={project.repositorio}
-                className="text-gray-600 hover:text-gray-900 transition-colors"
+                className="text-gray-600 dark:text-gray-300 dark:hover:text-gray-100 hover:text-gray-900 transition-colors"
               >
                 <Github className="h-5 w-5" />
                 <span className="sr-only">GitHub</span>
@@ -43,7 +43,7 @@ export default function CardProject({ project }: Props) {
             )}
             <a
               href={project.url}
-              className="text-gray-600 hover:text-gray-900 transition-colors"
+              className="text-gray-600 dark:text-gray-300 dark:hover:text-gray-100 hover:text-gray-900 transition-colors"
             >
               <ExternalLink className="h-5 w-5" />
               <span className="sr-only">Live Demo</span>
