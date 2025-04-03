@@ -6,18 +6,22 @@
     "repositorio": "https://github.com/pedrohbf1/pedroShop-frontend",
     "imagemCapa": "/devpedro/neobix.png",
     "linguagens": [
-      "JavaScript",
-      "Styled-component",
-      "React.js",
-      "React-icons",
-      "axios",
-      "Firebase",
-      "React-router-dom",
-      "React-loader-spinner",
+      "TypeScript",
+      "React",
+      "TailwindCSS",
+      "Zod",
+      "React Hook Form",
+      "React Router",
       "Tanstack Query",
+      "ShadCN/UI",
+      "DaisyUI",
+      "FullCalendar",
       "Node.js",
       "Express",
-      "MySQL"
+      "PostgreSQL",
+      "Docker",
+      "Multer",
+      "MercadoPago"
     ]
   },
   {
