@@ -4,7 +4,7 @@
     "cargo": "Fundador e Cocriador",
     "url": "https://www.neobix.com.br/",
     "repositorio": "https://github.com/pedrohbf1/pedroShop-frontend",
-    "imagemCapa": "/neobix.png",
+    "imagemCapa": "neobix.png",
     "linguagens": [
       "JavaScript",
       "Styled-component",
@@ -24,7 +24,7 @@
     "titulo": "Dactai RFM",
     "cargo": "Desenvolvedor Full Stack",
     "url": "https://www.dactai.com.br/",
-    "imagemCapa": "/dactai.png",
+    "imagemCapa": "dactai.png",
     "linguagens": [
       "React",
       "Next.js",
@@ -40,7 +40,7 @@
     "titulo": "Diversão Offline",
     "cargo": "Desenvolvedor Full Stack",
     "url": "https://diversaooffline.com.br/",
-    "imagemCapa": "/doff.png",
+    "imagemCapa": "doff.png",
     "linguagens": [
       "TypeScript",
       "React",
