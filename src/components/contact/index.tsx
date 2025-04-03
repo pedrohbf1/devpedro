@@ -85,8 +85,8 @@ export default function Contact() {
 
             <div className="space-y-6">
               <div className="flex items-center gap-4">
-                <div className="bg-gray-100 dark:bg-gray-800 p-3 rounded-full">
-                  <Mail className="h-5 w-5 text-gray-600" />
+                <div className="bg-gray-100  dark:bg-gray-800 p-3 rounded-full">
+                  <Mail className="h-5 w-5 dark:text-gray-300 transition-colors text-gray-600" />
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">Email</p>
@@ -95,7 +95,7 @@ export default function Contact() {
               </div>
               <div className="flex items-center gap-4">
                 <div className="bg-gray-100 dark:bg-gray-800 p-3 rounded-full">
-                  <Linkedin className="h-5 w-5 text-gray-600" />
+                  <Linkedin className="h-5 w-5 dark:text-gray-300 transition-colors text-gray-600" />
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">LinkedIn</p>
@@ -106,7 +106,7 @@ export default function Contact() {
               </div>
               <div className="flex items-center gap-4">
                 <div className="bg-gray-100 dark:bg-gray-800 p-3 rounded-full">
-                  <Github className="h-5 w-5 text-gray-600" />
+                  <Github className="h-5 w-5 dark:text-gray-300 transition-colors text-gray-600" />
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">GitHub</p>
