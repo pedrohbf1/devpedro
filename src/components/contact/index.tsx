@@ -78,8 +78,7 @@ export default function Contact() {
             <div className="space-y-4">
               <h3 className="text-xl font-bold">Informações de Contato</h3>
               <p className="text-gray-600 dark:text-gray-400">
-                Estou disponível para freelance, projetos de longo prazo ou
-                oportunidades de emprego.
+                Estou disponível para freelance e projetos de longo prazo.
               </p>
             </div>
 

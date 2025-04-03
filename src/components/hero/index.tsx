@@ -39,7 +39,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="md:full flex justify-center"
           >
-            <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-gray-100 dark:border-gray-800 shadow-xl">
+            <div className="relative w-64 max-md:mt-16 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-gray-100 dark:border-gray-800 shadow-xl">
               <img
                 src={imageHero}
                 alt="Foto do Desenvolvedor"
